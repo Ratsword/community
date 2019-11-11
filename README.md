@@ -10,3 +10,17 @@
 
 ## 工具
 1. [Git](https://git-scm.com/download)   
+
+```javascript
+
+var a = 123;
+console.log(typeof a);//number
+console.log(typeof(a + ""));//string
+console.log(typeof(a.toString()));//string
+console.log(String(null));//"null"
+var b;
+console.log(b.toString());//报错
+
+```
+
+:arrow_up:[顶部](#明月社区)
