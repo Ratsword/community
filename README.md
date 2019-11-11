@@ -12,7 +12,7 @@
 1. [Git](https://git-scm.com/download)   
 
 ```javascript
-
+<script>
 var a = 123;
 console.log(typeof a);//number
 console.log(typeof(a + ""));//string
@@ -20,7 +20,7 @@ console.log(typeof(a.toString()));//string
 console.log(String(null));//"null"
 var b;
 console.log(b.toString());//报错
-
+</script>
 ```
 
 :arrow_up:[顶部](#1)
