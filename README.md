@@ -23,4 +23,4 @@ console.log(b.toString());//报错
 
 ```
 
-:arrow_up:[顶部](#明月社区)
+:arrow_up:[顶部](#)
